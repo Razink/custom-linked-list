@@ -2,6 +2,15 @@ package org.razink.upwork.operr.util;
 
 import org.razink.upwork.operr.util.exception.EmptyListException;
 
+/**
+ * int type singly linkedlist class with following functions : 
+ *	1. Append an element into the linkedlist
+ *	2. Remove the tail element from a linkedlist
+ *	3. Remove all element in the linkedlist that is greater than a target value
+ * 
+ * @author Razink
+ *
+ */
 public class CustomLinkedList {
 
 	/**
